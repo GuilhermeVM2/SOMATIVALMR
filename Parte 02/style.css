@@ -1,0 +1,41 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.form {
+    
+    width: 2000px;
+    height: 2000x;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    color: rgb(255, 255, 255);
+}
+.form a{
+    color: aliceblue;
+}
+.cad1{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cad2{
+    color: aliceblue;
+}
+.teste{
+    width: 2000px;
+    height: 2000x;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.teste2{
+    display: flex;
+    justify-content: start;
+    color: aliceblue;
+}
